@@ -19,5 +19,3 @@ Built with **React.js** for learning and personal practice.
 - **Deployment**: Works with Vercel, Netlify, or GitHub Pages  
 
 ---
-
-## 📂 Project Structure
