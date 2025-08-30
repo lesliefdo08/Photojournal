@@ -1,2 +1,23 @@
-# Photojournal
-A simple React-based web application that allows users to create and display photo albums. The app features a banner image, customizable logo, and an album maker component for organizing photos in a clean and user-friendly way.  Built using React.js, this project demonstrates the use of components, props, and styling.
+# 📸 My Photojournal
+
+A simple React-based Photojournal website where you can showcase images and create albums.  
+Built with **React.js** for learning and personal practice.  
+
+---
+
+## ✨ Features
+- 🖼️ Custom banner image  
+- 📂 Album Maker to upload & organize images  
+- 🎨 Custom logo and title  
+- ⚡ Built with React for fast and interactive UI  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend**: React.js, CSS  
+- **Backend**: None (static project)  
+- **Deployment**: Works with Vercel, Netlify, or GitHub Pages  
+
+---
+
+## 📂 Project Structure
