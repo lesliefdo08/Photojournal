@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# 📸 My Photojournal
+
+A simple React-based Photojournal website where you can showcase images and create albums.  
+Built with **React.js** for learning and personal practice.  
+
+---
+
+## ✨ Features
+- 🖼️ Custom banner image  
+- 📂 Album Maker to upload & organize images  
+- 🎨 Custom logo and title  
+- ⚡ Built with React for fast and interactive UI  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend**: React.js, CSS  
+- **Backend**: None (static project)  
+- **Deployment**: Works with Vercel, Netlify, or GitHub Pages  
+
+---
+>>>>>>> 8c27c89be8bf99275e519aa7dad5ca2772906a61
